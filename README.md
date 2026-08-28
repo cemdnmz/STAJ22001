@@ -54,6 +54,3 @@ Bu proje, Baldor NextMove ESB CNC hareket kontrol kartı ile bilgisayar arasınd
 1. Visual Studio kullanarak `CNC_GCode_Sender/` dizinindeki `.sln` (Solution) dosyasını açın.
 2. Projenin bağımlılıkları arasında yer alan `Interop.MintControls_5864Lib.dll` referansının doğru eklendiğinden emin olun.
 3. Projeyi *Release* veya *Debug* modunda derleyerek başlatın. (Fiziksel testler için USB/Seri port üzerinden Baldor cihazının bağlı olması gerekmektedir.)
-
----
-*Bu depo 2026 yılı zorunlu staj uygulaması dahilinde oluşturulmuştur.*
