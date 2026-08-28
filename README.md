@@ -13,7 +13,7 @@ Repo içerisinde iki ana klasör bulunmaktadır:
 
 ## 🛠️ Proje 1: Balgam Örneği Teşhis Sistemi (AS7341 & XMC1100)
 
-Bu proje, tüberküloz ve diğer mikobakterilerin üreme durumunu spektral analiz yöntemiyle tespit etmek amacıyla geliştirilmiştir. Infineon XMC1100 mikrodenetleyicisi ve AS7341 11-kanallı spektral sensör kullanılarak balgam (sputum) numunelerinin renk kırılımları incelenmektedir.
+Bu proje, tüberküloz ve diğer mikobakterilerin üreme durumunu spektral analiz yöntemiyle tespit etmek amacıyla geliştirilmiştir. Infineon XMC1100 mikrodenetleyicisi ve AS7341 11-kanallı spektral sensör kullanılarak balgam numunelerinin renk kırılımları incelenmektedir.
 
 ### Öne Çıkan Özellikler
 * **I2C Haberleşme & SMUX Konfigürasyonu:** Sensör üzerindeki farklı dalga boylarının (F1-F8) eş zamanlı ve optimize edilmiş şekilde okunması.
