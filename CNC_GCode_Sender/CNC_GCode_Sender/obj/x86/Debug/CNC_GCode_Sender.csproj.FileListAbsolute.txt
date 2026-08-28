@@ -1,0 +1,14 @@
+C:\Users\cemos\source\repos\CNC_GCode_Sender\CNC_GCode_Sender\bin\x86\Debug\CNC_GCode_Sender.exe.config
+C:\Users\cemos\source\repos\CNC_GCode_Sender\CNC_GCode_Sender\bin\x86\Debug\CNC_GCode_Sender.exe
+C:\Users\cemos\source\repos\CNC_GCode_Sender\CNC_GCode_Sender\bin\x86\Debug\CNC_GCode_Sender.pdb
+C:\Users\cemos\source\repos\CNC_GCode_Sender\CNC_GCode_Sender\obj\x86\Debug\CNC_GCode_Sender.csproj.AssemblyReference.cache
+C:\Users\cemos\source\repos\CNC_GCode_Sender\CNC_GCode_Sender\obj\x86\Debug\Interop.MintControls_5864Lib.dll
+C:\Users\cemos\source\repos\CNC_GCode_Sender\CNC_GCode_Sender\obj\x86\Debug\CNC_GCode_Sender.csproj.ResolveComReference.cache
+C:\Users\cemos\source\repos\CNC_GCode_Sender\CNC_GCode_Sender\obj\x86\Debug\CNC_GCode_Sender.Form1.resources
+C:\Users\cemos\source\repos\CNC_GCode_Sender\CNC_GCode_Sender\obj\x86\Debug\CNC_GCode_Sender.Properties.Resources.resources
+C:\Users\cemos\source\repos\CNC_GCode_Sender\CNC_GCode_Sender\obj\x86\Debug\CNC_GCode_Sender.csproj.GenerateResource.cache
+C:\Users\cemos\source\repos\CNC_GCode_Sender\CNC_GCode_Sender\obj\x86\Debug\CNC_GCode_Sender.csproj.CoreCompileInputs.cache
+C:\Users\cemos\source\repos\CNC_GCode_Sender\CNC_GCode_Sender\obj\x86\Debug\CNC_GCode_Sender.exe
+C:\Users\cemos\source\repos\CNC_GCode_Sender\CNC_GCode_Sender\obj\x86\Debug\CNC_GCode_Sender.pdb
+C:\Users\cemos\source\repos\CNC_GCode_Sender\CNC_GCode_Sender\bin\x86\Debug\Interop.MintControls_5864Lib.dll
+C:\Users\cemos\source\repos\CNC_GCode_Sender\CNC_GCode_Sender\obj\x86\Debug\CNC_GCode_Sender.exe.config
