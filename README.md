@@ -1,6 +1,6 @@
 # STAJ22001 - Yazılım Mühendisliği Staj Projeleri
 
-Bu depo, 2026 yılı yaz dönemi donanım-yazılım entegrasyonu stajı kapsamında geliştirilen iki farklı mühendislik projesinin kaynak kodlarını içermektedir. Projeler, mikrodenetleyici tabanlı sensör okuma ve endüstriyel CNC makine kontrolü alanlarında geliştirilmiştir.
+Bu depo, 2026 yılı yaz dönemi yazılım stajı kapsamında geliştirilen iki farklı mühendislik projesinin kaynak kodlarını içermektedir. Projeler, mikrodenetleyici tabanlı sensör okuma ve endüstriyel CNC makine kontrolü alanlarında geliştirilmiştir.
 
 ## 📂 Depo İçeriği ve Proje Yapısı
 
